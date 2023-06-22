@@ -17,3 +17,7 @@ This document explains the different types of NLP applications that would be use
 
 This document goes into detail about Google assistant and how it uses NLP to achieve certain tasks.
 
+###### Installation
+
+These programs are all written in Python and can be ran on any Python terminal.
+
